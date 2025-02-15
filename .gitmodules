@@ -25,3 +25,6 @@
 [submodule "Assignment-Starter-Forms"]
 	path = Assignment-Starter-Forms
 	url = https://github.com/Codify-Berkeley-Education/Assignment-Starter-Forms
+[submodule "Assignment-Starter-Git"]
+	path = Assignment-Starter-Git
+	url = https://github.com/Codify-Berkeley-Education/Assignment-Starter-Git
